@@ -5,9 +5,9 @@ Our platform bridges the gap between teachers and students by providing a seamle
 
 🔗 Live Demos:
 
-🌐 Main Site: likitha3126.github.io/Codecrackers/
+🌐 Main Site: https://likitha3126.github.io/Codecrackers/
 
-⚡ Deployed App: codecrackers-two.vercel.app
+⚡ Deployed App: https://codecrackers-two.vercel.app
 
 
 🧩 Project Overview
